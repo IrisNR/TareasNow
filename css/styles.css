@@ -1,0 +1,47 @@
+body{
+	font-family: 'Dosis', sans-serif;
+}
+.mediano{
+	font-size: 20px;
+}
+
+.grande{
+	font-size: 35px;
+}
+nav.nav-center ul {
+    text-align: center;
+}
+nav.nav-center ul li {
+    display: inline;
+    float: none;
+}
+nav.nav-center ul li a {
+    display: inline-block;
+}
+.text-justificado{
+	text-align: justify;
+}
+<<<<<<< HEAD
+#principal{
+	background: url(../video´/principal.mov);
+}
+.contactos{
+	background: url(../images/contacto.jpg);
+=======
+
+#navegacion ul li {
+	padding: 15px 20px;
+}
+
+#principal{
+	background-image: url(../images/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#principal h1{
+	font-size: 8em;
+>>>>>>> 5cdb2f3f078048f19ea524971647b1ab3694d5e4
+}
